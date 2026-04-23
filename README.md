@@ -15,10 +15,10 @@ Ethereum, Solana, and Zk protocols: I find bugs in any stack!
 
 | Project              | Project review type           | Date              | Review type         | Result          |
 |----------------------|-------------------------------|-------------------|---------------------|-----------------|
-| Tadle     |  Smart contract - Solidity        | August 2024  | Codehawks Competition | [Rank: 3rd 🥉](https://audits.sherlock.xyz/flamide)        |
-| Althea               | Smart contract - Solidity       | Febuary 2024     | Code4rena Competition | [Rank: 34th ](https://audits.sherlock.xyz/flamide) |
-| AI Arena                | Smart contract - Solidity       | Febuary 2024         | Code4rena Competition | [Rank: 137th ](https://audits.sherlock.xyz/flamide) |
+| Tadle     |  Smart contract - Solidity        | August 2024  | Codehawks Competition | [Rank: 3rd 🥉](https://profiles.cyfrin.io/u/0xlamide)        |
+| Althea               | Smart contract - Solidity       | Febuary 2024     | Code4rena Competition | [Rank: 34th ](https://audits.sherlock.xyz/watson/flamide) |
+| AI Arena                | Smart contract - Solidity       | Febuary 2024         | Code4rena Competition | [Rank: 137th ](https://code4rena.com/@0xlamide) |
 | Curve Protocol       | Smart contract - Solidity     | January 2024        | Code4rena Competition | [Rank: 135 ](https://audits.sherlock.xyz/flamide) |
-| Avail           | Smart contract - Solidity     | January 2024        | Sherlock Competition | [Rank: 1st 🥇](https://audits.sherlock.xyz/0xlamide)|
-| Telcoin                 | Smart contract - Solidity     | January 2024     | Sherlock Competition | [Rank: 9th ](https://audits.sherlock.xyz/0xlamide) |
+| Avail           | Smart contract - Solidity     | January 2024        | Sherlock Competition | [Rank: 1st 🥇](https://audits.sherlock.xyz/watson/0xlamide)|
+| Telcoin                 | Smart contract - Solidity     | January 2024     | Sherlock Competition | [Rank: 9th ](https://audits.sherlock.xyz/watson/0xlamide) |
 
