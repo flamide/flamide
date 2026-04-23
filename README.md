@@ -4,7 +4,7 @@ Hey! Flamide here!
 
 Applied Cryptography, Blockchain Developer, Security Researcher.
 
-Rust, Go, Solidity, even Java: I find bugs in any language!
+Rust, Solidity, etc.. : I find bugs in any language!
 
 Ethereum, Solana, and Zk protocols: I find bugs in any stack!
 
