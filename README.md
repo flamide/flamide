@@ -44,7 +44,7 @@ impl Default for Flamide {
 
 ### 🛠️ currently
 
-- 🔭 Building things on **Solana** with **Rust**
+- 🔭 Building things on **Solana** with **Rust**, and **Evm** with **Solidity**
 - 🧪 Exploring **LiteSVM**, **Pinocchio**, **Anchor**, **Evm**, and squeezing every CU
 - 📚 Always reading: Defi projects, Zk projects
 - ⚡ Fun fact: I'd rather rewrite it in Rust
