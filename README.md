@@ -46,8 +46,23 @@ impl Default for Flamide {
 
 - 🔭 Building things on **Solana** with **Rust**, and **Evm** with **Solidity**
 - 🧪 Exploring **LiteSVM**, **Pinocchio**, **Anchor**, **Evm**, and squeezing every CU
-- 📚 Always reading: Defi projects, Zk projects
+- 🧪 Exploring **Cryptography(zk, ecc)**
+- 📚 Always reading: Defi projects, Onchain systems, Zk projects
 - ⚡ Fun fact: I'd rather rewrite it in Rust
+
+---
+
+## Competitions
+
+| Project              | Project review type           | Date              | Review type         | Result          |
+|----------------------|-------------------------------|-------------------|---------------------|-----------------|
+| Tadle     |  Smart contract         | August 2024  | Codehawks Competition | [Rank: 3rd 🥉](https://profiles.cyfrin.io/u/0xlamide)        |
+| Althea               | Smart contract        | Febuary 2024     | Code4rena Competition | [Rank: 34th ](https://audits.sherlock.xyz/watson/flamide) |
+| AI Arena                | Smart contract        | Febuary 2024         | Code4rena Competition | [Rank: 137th ](https://code4rena.com/@0xlamide) |
+| Curve Protocol       | Smart contract      | January 2024        | Code4rena Competition | [Rank: 135 ](https://audits.sherlock.xyz/flamide) |
+| Avail           | Smart contract     | January 2024        | Sherlock Competition | [Rank: 1st 🥇](https://audits.sherlock.xyz/watson/0xlamide)|
+| Telcoin                 | Smart contract     | January 2024     | Sherlock Competition | [Rank: 9th ](https://audits.sherlock.xyz/watson/0xlamide) |
+
 
 ---
 
