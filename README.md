@@ -24,7 +24,7 @@ pub struct Flamide {
     role:        &'static str,
     stack:       Vec<&'static str>,
     focus:       &'static str,
-    coffee:      u32,
+    energy:      u32,
 }
 
 impl Default for Flamide {
